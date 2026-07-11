@@ -82,15 +82,11 @@ saves its plot as an `.svg` in the working directory.
 
 **Photon trajectories** — lensing, critical, and capture cases around the photon sphere:
 
-<div align="center">
 ![Photon trajectories](figures/polar_trajectories.svg)
-</div>
 
 **Gravitational time dilation** — captured photon visibly slows near the horizon:
 
-<div align="center">
 ![Coordinate-time animation](figures/lensing_animation.gif)
-</div>
 
 ## Physics context
 
