@@ -13,18 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Images (your requirement)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-
-# Documents (your requirement)
-*.pdf
-*.docx
-*.pptx
-
 # Editor / IDE
 .vscode/
 .idea/
